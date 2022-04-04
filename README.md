@@ -1,2 +1,2 @@
 # React
-Making chance 
+Making chance for you
